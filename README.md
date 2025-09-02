@@ -17,6 +17,7 @@ It provides a clean project structure, development scripts, and production-ready
 ```bash
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
+cd src/server
 npm install
 npm start
 

@@ -16,7 +16,7 @@ It provides a clean project structure, development scripts, and production-ready
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Leon-glitch-png/dem.git
-cd your-repo
+cd dem
 cd src/server
 npm install
 npm start
